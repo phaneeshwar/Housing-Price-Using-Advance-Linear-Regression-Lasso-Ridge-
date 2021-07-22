@@ -1,1 +1,1 @@
-# Housing-Price-Using-Advance Linear-Regression-Lasso-Ridge-
+# HousingPrice Using Advance Linear Regression (Lasso & Ridge)
